@@ -79,6 +79,9 @@
     scroll-behavior: smooth;
   }
 }
+#logo {
+  width: 30%;
+}
 
 body {
   margin: 0;
